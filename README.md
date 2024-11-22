@@ -36,6 +36,8 @@ To implement process from audio to diagram I have create several skilled agents 
 
 1. **mindmap-to-mermaid**: last agent transform the mind-map representation in a [mermaid](https://mermaid.js.org) syntax ready for the visualization
 
+### Diagram of Agentic Architecture
+
 ```mermaid
 graph TD;
         __start__([<p>__start__</p>]):::first
